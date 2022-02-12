@@ -13,3 +13,6 @@ Inspired by:
 
 [1]: https://symfony.com/doc/4.x/bundles/xxx/index.html
 [2]: https://github.com/habibun/xxx/tree/x.x
+
+## License
+The code is licensed under the [MIT License](https://github.com/habibun/xxx/blob/master/LICENSE)

@@ -15,4 +15,4 @@ Inspired by:
 [2]: https://github.com/habibun/xxx/tree/x.x
 
 ## License
-The code is licensed under the [MIT License](https://github.com/habibun/xxx/blob/master/LICENSE)
+The code is licensed under the [MIT License](https://github.com/habibun/xxx/blob/master/LICENSE).

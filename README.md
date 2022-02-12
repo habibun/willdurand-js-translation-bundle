@@ -8,5 +8,8 @@ Implements xxx in symfony
 
 Read [EasyAdmin Docs][1]
 
+Inspired by:   
+- [xxx](link here)
+
 [1]: https://symfony.com/doc/4.x/bundles/EasyAdminBundle/index.html
 [2]: https://github.com/habibun/xxx/tree/x.x

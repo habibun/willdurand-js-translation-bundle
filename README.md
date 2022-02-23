@@ -8,7 +8,7 @@ Implements xxx in symfony
 
 Read [xxx Docs][1]
 
-Resources:  
+Resources  
 - [xxx](link here)
 
 [1]: https://symfony.com/doc/4.x/bundles/xxx/index.html

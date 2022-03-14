@@ -1,9 +1,9 @@
 # symfony-template
 Implements xxx in symfony
 
-| Branch     | xxx Version | Symfony Version | PHP Version |
-|------------|-------------|-----------------|-------------|
-| [5.4.x][1] | `x.x`       | `5.4.x`         | `8.0`       |
+| Branch     | xxx Version | Symfony Version | PHP Version     |
+|------------|-------------|-----------------|-----------------|
+| [5.4.x][1] | `x.x`       | `5.4.x`         | `8.0` or higher |
 
 
 Read [xxx Docs](xxx)

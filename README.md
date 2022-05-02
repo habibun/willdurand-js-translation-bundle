@@ -1,19 +1,14 @@
-# symfony-template
-Implements xxx in symfony
+# willdurand-js-translation-bundle
+Implements JsTranslationBundle in symfony
 
-| Branch     | xxx Version | Symfony Version | PHP Version     |
-|------------|-------------|-----------------|-----------------|
-| [4.4.x][2] | `x.x`       | `4.4.x`         | `7.4` or higher |
+| Branch   | JsTranslationBundle Version | Symfony Version | PHP Version     |
+|----------|-----------------------------|-----------------|-----------------|
+| [2.x][1] | `2.x`                       | `4.4.x`         | `7.4` or higher |
 
 
-Read [xxx Docs](xxx)
-
-### Resources  
-- [xxx](xxx)
-
+Read [JsTranslationBundle Docs](https://github.com/willdurand/BazingaJsTranslationBundle/blob/master/Resources/doc/index.md)
 
 ### License
-The code is licensed under the [MIT License](https://github.com/habibun/symfony-template/blob/master/LICENSE)
+The code is licensed under the [MIT License](https://github.com/habibun/willdurand-js-translation-bundle/blob/master/LICENSE)
 
-[1]: https://github.com/habibun/symfony-template/tree/5.4.x
-[2]: https://github.com/habibun/symfony-template/tree/4.4.x
+[1]: https://github.com/habibun/willdurand-js-translation-bundle/tree/2.x

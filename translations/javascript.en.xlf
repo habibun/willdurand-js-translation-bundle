@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="en" datatype="plaintext" original="file.ext">
+    <header>
+      <tool tool-id="symfony" tool-name="Symfony"/>
+    </header>
+    <body>
+      <trans-unit id="0jg4sef" resname="Symfony is great">
+        <source>Symfony is great</source>
+        <target>Symfony is great what!</target>
+      </trans-unit>
+      <trans-unit id="SzX5ua9" resname="Hello %name%">
+        <source>Hello %name%</source>
+        <target>Hello %name%</target>
+      </trans-unit>
+      <trans-unit id="p.dzzg0" resname="{0} There are no apples|{1} There is one apple|]1,Inf[ There are %count% apples">
+        <source>{0} There are no apples|{1} There is one apple|]1,Inf[ There are %count% apples</source>
+        <target>{0} There are no apples|{1} There is one apple|]1,Inf[ There are %count% apples</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
